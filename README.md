@@ -7,3 +7,6 @@ CRUD with list/array https://youtu.be/hlHfKMTarr0
 CRUD with dictionary https://youtu.be/6DMVdzb5aCg
 String common operations https://youtu.be/mtK8qlfJcC0
 Data validation workflow p1 and p2 https://youtu.be/c-Psap03w0w https://youtu.be/bcEvjejZkWw
+
+
+Reached upload limit, will update later when possible
